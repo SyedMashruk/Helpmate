@@ -1,15 +1,18 @@
-# Fitness App
+# Helpmate
 
-A simple cross-platform fitness guide application using Flutter and Dart. The app integrates with a fitness API to display the list of workouts and demo of it.
+We have developed an all-in-one app that integrates essential online services, including transportation, education, emergency, health, and jobs. It was a group project of andriod development course of our university,
 
 ## ScreenShots:
-![screenshot_1](https://github.com/SyedMashruk/Fitness-App/blob/main/Screenshots/1.png)
+![screenshot_1](https://github.com/SyedMashruk/Helpmate/blob/main/Screenshots/homepage.png)
 
-![screenshot_2](https://github.com/SyedMashruk/Fitness-App/blob/main/Screenshots/2.png)
+![screenshot_2](https://github.com/SyedMashruk/Helpmate/blob/main/Screenshots/Education.png)
+
+![screenshot_3](https://github.com/SyedMashruk/Helpmate/blob/main/Screenshots/health.png)
+
+![screenshot_4](https://github.com/SyedMashruk/Helpmate/blob/main/Screenshots/emergency.png)
 
 ## Project Information
-**Project Title:** Fitness App<br>
-**Project Type:** API integrated simple fitness guide application (Cross Platform)
+**Project Title:** Helpmate<br>
 
-**Language:** Flutter & Dart<br>
-**IDE:** Visual Studio Code 2019<br>
+**Language:** Kotlin<br>
+**IDE:** Android Studio<br>
