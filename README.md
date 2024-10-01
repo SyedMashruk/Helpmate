@@ -13,6 +13,5 @@ We have developed an all-in-one app that integrates essential online services, i
 
 ## Project Information
 **Project Title:** Helpmate<br>
-
 **Language:** Kotlin<br>
 **IDE:** Android Studio<br>
